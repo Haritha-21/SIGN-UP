@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Signup</string>
+    <string name="enter_the_email">Enter the Email</string>
+    <string name="enter_the_password">Enter the password</string>
+    <string name="conform_password">Conform Password</string>
+    <string name="register">Register</string>
+    <string name="enter_the_conform_password">Enter the conform_password</string>
+    <string name="reenter_your_password">Reenter your password</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="login">LOGIN</string>
+</resources>
